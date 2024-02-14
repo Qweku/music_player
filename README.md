@@ -1,4 +1,4 @@
-# Flutter Music Player App
+# Music Player App
 
 Welcome to the Flutter Music Player App! This Flutter-powered application is designed to provide a seamless music listening experience.
 
@@ -27,7 +27,7 @@ Flutter Music Player App allows users to play and organize their music collectio
 
 | Dark Theme 1 | Dark Theme 2 | Dark Theme 3 |
 |--------------|---------------|---------------------|
-| ![Dark Theme 1](readme/dark1.jpg) | ![Dark Theme 2](readme/dark2.jpg) | ![Dark Theme 1]() |
+| ![Dark Theme 1](readme/dark1.jpg) | ![Dark Theme 2](readme/dark2.jpg) | ![Dark Theme 1](readme/dark3.jpg) |
 
 ## How to Use
 - Play songs, create playlists, and manage your music collection effortlessly.
